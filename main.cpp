@@ -1,6 +1,6 @@
 #include "main.hpp"
 
-const int SIZE = 100;
+
 
 int main()
 {
